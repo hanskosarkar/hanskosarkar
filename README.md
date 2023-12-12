@@ -39,7 +39,7 @@ I'm ***Hansaraj Kosarkar***🧑‍💻, a passionate tech enthusiast and a Softw
   - <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="20"/> Python
 - Pandas and scikit-learn for data manipulation, analysis, and machine learning.
   - <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="20"/> Pandas
-  - <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="" width="20"/> scikit-learn
+  - <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="" width="20"/> Scikit-learn
 
 #### 📫 You can reach me:
 - [<img src="https://img.icons8.com/color/48/000000/twitter-circled.png" alt="Twitter" width="20"/>](https://twitter.com/Hanskosarkar) Twitter
