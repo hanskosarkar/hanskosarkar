@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm ***Hansaraj Kosarkar***🧑‍💻, a passionate tech enthusiast and a Software Developer with a flair for both web development and data science. <br/> 
+I'm ***Hansaraj Kosarkar*** 🧑‍💻, a passionate tech enthusiast and a Software Developer with a flair for both web development and data science. <br/> 
 🚀 I'm honing my skills in both web development and data science.
 
 <!-- Web Development Tech Stack -->
@@ -46,6 +46,7 @@ I'm ***Hansaraj Kosarkar***🧑‍💻, a passionate tech enthusiast and a Softw
 - [<img src="https://img.icons8.com/color/48/000000/linkedin-circled.png" alt="LinkedIn" width="20"/>](https://www.linkedin.com/in/hansaraj-kosarkar) LinkedIn
   
 <br/>
-🌐 Let's connect and explore the fascinating world of technology together!
-<br/>
+🌐 Let's connect and explore the fascinating world of technology together!  
+<br/><br/>   
 Happy coding! ✨✨
+
