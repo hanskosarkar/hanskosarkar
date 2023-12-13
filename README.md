@@ -38,6 +38,7 @@ I'm ***Hansaraj Kosarkar*** 🧑‍💻, a passionate tech enthusiast and a Soft
 - Python as my go-to language for data science and machine learning projects.
   - <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="20"/> Python
 - Pandas and scikit-learn for data manipulation, analysis, and machine learning.
+  - <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" width="20"/> NumPy
   - <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="20"/> Pandas
   - <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="" width="20"/> Scikit-learn
 
